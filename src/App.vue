@@ -3,20 +3,9 @@ import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
 import Upload from './components/Upload.vue'
 </script>
-
 <template>
-   <Upload />
-  <!-- <header> -->
-    <!-- <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
- -->
-    <!-- <div class="wrapper">
-      <HelloWorld msg="Upload!" />
-    </div>
-  </header> -->
+  <Upload />1
 
-  <!-- <main> -->
-   
-  <!-- </main> -->
 </template>
 
 <style scoped>
